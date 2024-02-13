@@ -1,7 +1,7 @@
 {
   "name": "nlw-expert-notes",
   "private": true,
-  "homepage": "https://nanydev.github.io/notas",
+  "homepage": "https://nanydev.github.io/bloco-de-notas",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
